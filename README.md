@@ -1,7 +1,5 @@
 # 🍔 Swiggy Sales Analysis Dashboard (Microsoft Excel)
 
-![Dashboard Preview](assets/dashboard.png)
-
 ## 📌 Project Overview
 
 This project is an interactive **Microsoft Excel Dashboard** developed using a real-world Swiggy sales dataset. The dashboard provides insights into sales performance, customer ratings, ordering patterns, and regional trends through interactive visualizations and KPI tracking.
