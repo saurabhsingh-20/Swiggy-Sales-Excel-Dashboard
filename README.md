@@ -74,7 +74,7 @@ Before building the dashboard, the dataset was cleaned and enhanced by:
 
 > Add your dashboard screenshot below.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 ---
 
@@ -99,8 +99,8 @@ Swiggy-Sales-Excel-Dashboard
 ├── Swiggy_Sales_Dashboard.xlsx
 ├── dataset
 │   ├── Swiggy_Raw_Data.xlsx
-│   └── Swiggy_Processed_Data.xlsx
-└── screenshots
+│   └── Swiggy_Refined_Data.xlsx
+└── assets
     └── dashboard.png
 ```
 
