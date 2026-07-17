@@ -97,11 +97,13 @@ Swiggy-Sales-Excel-Dashboard
 │
 ├── README.md
 ├── Swiggy_Sales_Dashboard.xlsx
-├── dataset
-│   ├── Swiggy_Raw_Data.xlsx
-│   └── Swiggy_Processed_Data.xlsx
-└── screenshots
-    └── dashboard.png
+├── dataset/
+│   └── Swiggy_Raw_Data.xlsx
+├── screenshots/
+│   ├── dashboard.png
+│   ├── filters.png
+│   └── charts.png
+└── LICENSE (optional)
 ```
 
 ---
